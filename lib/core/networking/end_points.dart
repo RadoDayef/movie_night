@@ -1,0 +1,8 @@
+class EndPoints {
+  EndPoints._();
+
+  static const String popular = "movie/popular";
+  static const String upcoming = "movie/upcoming";
+  static const String topRated = "movie/top_rated";
+  static const String nowPlaying = "movie/now_playing";
+}
